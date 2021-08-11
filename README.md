@@ -1,2 +1,4 @@
 # Testing Git
- learning how to use git to do changes on github
+ Learning how to use Git Desktop to make changes on my Github page. 
+
+ While watching a youtube class.
